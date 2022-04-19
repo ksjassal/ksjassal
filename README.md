@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Karandeep
-- 👀 I’m interested in Network automation , DevOps & Cloud Computing
+- 👀 I’m interested in Network Automation , DevOps & Cloud Computing
 - 🌱 I’m currently learning Python, Ansible and the AWS solutions architect associate 
 - 💞️ I’m looking to collaborate on any projects involving network automation and cloud DevOps (Python, Ansible, cloud formation, terraform , etc)
 - 📫 How to reach me ... karandeepjassal73@gmail.com
